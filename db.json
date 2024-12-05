@@ -1,0 +1,6 @@
+{
+  "notes": [
+    { "id": 1, "text": "Заметка 1", "pinned": false },
+    { "id": 2, "text": "Закреп 2", "pinned": true }
+  ]
+}
